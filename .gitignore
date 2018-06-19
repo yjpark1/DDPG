@@ -1,11 +1,7 @@
 # 별도 추가 180306
-RLServer/venv/
-RLServer/.gitkeep
-RLServer/.idea/
-RLServer/myLoggerTest.*
-RLServer/save_model/
-RLServer/test/
-
+venv/
+.gitkeep
+.idea/
 
 # Byte-compiled / optimized / DLL files
 RLServer/__pycache__/
